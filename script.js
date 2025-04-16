@@ -2,14 +2,14 @@
     const config = {
       totalPairs: 8,
       images: [
-        '/images/chrome.png',
-        '/images/github.png',
-        '/images/javascript.png',
-        '/images/linux.png',
-        '/images/mysql.png',
-        '/images/open_source.png',
-        '/images/react.png',
-        '/images/ubuntu.png'
+        'images/chrome.png',
+        'images/github.png',
+        'images/javascript.png',
+        'images/linux.png',
+        'images/mysql.png',
+        'images/open_source.png',
+        'images/react.png',
+        'images/ubuntu.png'
       ]
     };
     
